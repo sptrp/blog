@@ -1,0 +1,6 @@
+/comments/node_modules/
+/event-bus/node_modules/
+/posts/node_modules/
+/.idea/
+/client/.gitignore
+

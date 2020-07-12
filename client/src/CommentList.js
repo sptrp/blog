@@ -12,6 +12,7 @@ export default ({ postId }) => {
 
     useEffect(() => {
         fetchComments();
+        // eslint-disable-next-line
     }, []);
 
     const renderedComments = comments.map(comment => {
