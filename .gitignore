@@ -4,3 +4,5 @@
 /.idea/
 /client/.gitignore
 
+/query/node_modules/
+/moderation/node_modules/
